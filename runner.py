@@ -2,7 +2,7 @@ from ext_fuel_data import run_terminus_fetch
 from datetime import datetime, timedelta
 
 # 🔹 yesterday (ตามเวลาเครื่อง)
-yesterday = datetime.now() - timedelta(days=1)
+yesterday = datetime.now() - timedelta(days=2)
 
 start = yesterday
 end = yesterday
