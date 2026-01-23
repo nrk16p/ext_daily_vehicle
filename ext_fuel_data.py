@@ -88,7 +88,7 @@ def run_terminus_fetch(date_start: str, date_end: str):
         "vehicle_visibility": "184,192,202,203,204,205,206,221,222,223,224,228,231,233,234,236,263,316,318,319,320",
         "policy_id": [],
         "event_type": [1001, 7007],
-        "gps_not_fixed": 0,
+        "gps_not_fixed": 1,
     }
 
     user_agents = [
